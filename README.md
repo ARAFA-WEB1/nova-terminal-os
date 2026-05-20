@@ -209,3 +209,21 @@ Downloading sensitive data...
 🎉 Congratulations! You've hacked the Nova mainframe! 🎉
 This is a simulated hacking sequence for educational purposes.
 Remember: Real hacking without permission is illegal!
+
+## 🎯 **Final Words**
+
+Nova Terminal OS brings the Linux terminal experience to your browser - no install, no setup, just pure command-line fun.
+
+**Try it, break it, learn from it. The terminal is yours to explore.**
+
+---
+
+<div align="center">
+
+### ⭐ **Star this repo if you like it** ⭐
+
+**© 2026 Nova Terminal OS**
+
+**[⬆ Back to Top](#)**
+
+</div>
