@@ -212,9 +212,6 @@ Remember: Real hacking without permission is illegal!
 
 ---
 
-<div align="center">
-
 🚀 Ready to explore the terminal?**
 
 © 2026 Nova Terminal OS
-</div>
