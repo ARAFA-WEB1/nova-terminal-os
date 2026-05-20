@@ -214,12 +214,7 @@ Remember: Real hacking without permission is illegal!
 
 <div align="center">
 
-**🚀 Ready to explore the terminal?**
+🚀 Ready to explore the terminal?**
 
-**Star ⭐ this repo | Report 🐛 | Suggest 💡**
-
-**Made with ☕ by ARAFA-WEB1**
-
-**© 2026 Nova Terminal OS**
-
+© 2026 Nova Terminal OS
 </div>
