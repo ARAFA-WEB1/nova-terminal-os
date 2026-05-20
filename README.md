@@ -210,20 +210,16 @@ Downloading sensitive data...
 This is a simulated hacking sequence for educational purposes.
 Remember: Real hacking without permission is illegal!
 
-## 🎯 **Final Words**
-
-Nova Terminal OS brings the Linux terminal experience to your browser - no install, no setup, just pure command-line fun.
-
-**Try it, break it, learn from it. The terminal is yours to explore.**
-
 ---
 
 <div align="center">
 
-### ⭐ **Star this repo if you like it** ⭐
+**🚀 Ready to explore the terminal?**
+
+**Star ⭐ this repo | Report 🐛 | Suggest 💡**
+
+**Made with ☕ by ARAFA-WEB1**
 
 **© 2026 Nova Terminal OS**
-
-**[⬆ Back to Top](#)**
 
 </div>
